@@ -1,0 +1,5 @@
+requests
+sqlalchemy
+plyer
+pandas
+numpy
